@@ -8,8 +8,6 @@
 
 邮箱：fangchao1995@zju.edu.cn
 
-[微博](https://weibo.com/p/1005051783134053/home?from=page_100505&mod=TAB#place)
-
-知乎：https://www.zhihu.com/people/fang-chao-98/activities
+[微博](https://weibo.com/p/1005051783134053/home?from=page_100505&mod=TAB#place)、[知乎](https://www.zhihu.com/people/fang-chao-98/activities)、[简书](https://www.jianshu.com/u/b74a4cc74d92)
 
 技能：R、Python
